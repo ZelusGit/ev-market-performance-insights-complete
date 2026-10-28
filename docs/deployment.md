@@ -10,6 +10,6 @@ The site fetches data/cleaned/ev_market_cleaned.csv.gz and decompresses the gzip
 
 ## Tableau Public access
 
-The workbook is published on Tableau Public at [the interactive five-point story](https://public.tableau.com/app/profile/dhruv.shrivastava/viz/EVMarketPerformanceInsights__17931690754480/Story1). Reviewers can navigate the story points and interact with the Tableau views in a browser. The packaged workbook is also available separately for download. The prepared data used by the website is available as a separate downloadable link in the README and website resources: data/cleaned/ev_market_cleaned.csv.gz.
+The workbook is published on Tableau Public at [the interactive five-point story](https://public.tableau.com/app/profile/dhruv.shrivastava/viz/EVMarketPerformanceInsights__17931690754480/Story1). Reviewers can navigate the story points and interact with the Tableau views in a browser. The [compressed Tableau workbook ZIP](../EV_Market_Performance_Insights_Tableau_Workbook.zip) is available for download; extract it, then open the `.twbx` in Tableau Public/Desktop. The prepared data used by the website is available as a separate downloadable link in the README and website resources: data/cleaned/ev_market_cleaned.csv.gz.
 
 To republish after a change, push updated files to main and check the repository Actions tab or Settings → Pages for deployment status. Open the public URL after deployment and confirm the dashboard reports 200,000 records.
