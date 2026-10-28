@@ -9,14 +9,14 @@ Interactive dashboard and Tableau story exploring sales, manufacturers, battery 
 | Resource | Link |
 |---|---|
 | GitHub repository | [Open this repository](https://github.com/ZelusGit/ev-market-performance-insights-complete) |
-| Website | [Open dashboard source](index.html) · [Styles](styles.css) · [Interactions](app.js) |
+| Live website | [Open the live dashboard](https://zelusgit.github.io/ev-market-performance-insights-complete/) |
+| Website source | [Dashboard source](index.html) · [Styles](styles.css) · [Interactions](app.js) |
 | Tableau story workbook | [Download packaged workbook](EV%20Market%20Performance%20%26%20Insights%20-%20Updated.twbx) |
 | Project report | [Open the 7-page report](output/pdf/EV_Market_Performance_Project_Report.pdf) |
 | Prepared data | [Download compressed CSV](data/cleaned/ev_market_cleaned.csv.gz) |
 | Story sequence | [Read the five story points](docs/story.md) |
 | Data preparation | [Read preparation notes](docs/data-preparation.md) |
 | SkillWallet checklist | [Open requirements checklist](docs/skillwallet-epic-checklist.md) |
-| Live website | Pending GitHub Pages publication; see [deployment notes](docs/deployment.md). |
 | Demo video | Pending recording and verified Google Drive link. |
 
 ## Run the dashboard locally
