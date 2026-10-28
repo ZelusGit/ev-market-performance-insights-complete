@@ -1,16 +1,25 @@
-# SkillWallet epic checklist
+# SkillWallet project checklist
+
+This checklist reflects the deliverables currently present in the repository and the published GitHub Pages site. A checked item means its artifact or status is available; it does not imply an external SkillWallet form has been submitted.
 
 ## Project sequence
 
-- [x] Data Collection & Extraction — copied the workbook's `ev_market_train.csv` source into `data/raw/`.
-- [x] Data Preparation — selected dashboard fields and documented missing values in `docs/data-preparation.md`.
-- [x] Data Visualizations — added category, manufacturer, model-year, battery, range, and country views.
-- [x] Dashboard — built filterable KPI cards and visualizations in the static web app.
-- [x] Story — added a five-point navigator in the requested order; see `docs/story.md`.
-- [ ] Performance Testing — record measured browser timings in `docs/performance-testing.md`.
-- [ ] Web Integration — enable GitHub Pages and add its generated URL to the README.
-- [ ] Project Demonstration & Documentation — capture a screenshot or short demo after Pages is live.
-- [ ] Add Demo Link — enter the working hosted dashboard URL in the project portal.
-- [x] Add GitHub Link — <https://github.com/ZelusGit/ev-market-performance-insights>
+- [x] Data collection and extraction — inspected the supplied 200,000-row, 37-field source. The original file remains local; the repository contains the prepared 10-field extract only. See [data preparation](data-preparation.md).
+- [x] Data preparation — selected dashboard fields, preserved missing values, and documented the duplicate vehicle ID.
+- [x] Data visualizations — implemented sales, manufacturer, model-year, battery, driving-range, and country views.
+- [x] Dashboard — published the interactive static site with filters and KPI cards.
+- [x] Story — packaged a five-point Tableau story; see [story sequence](story.md) and the [workbook file](../EV%20Market%20Performance%20%26%20Insights%20-%20Updated.twbx).
+- [x] Tableau Public dashboard and story — [open the published five-point interactive story](https://public.tableau.com/app/profile/dhruv.shrivastava/viz/EVMarketPerformanceInsights__17931690754480/Story1).
+- [ ] Performance testing — browser timing and narrow-screen results have not yet been measured; record them in [performance notes](performance-testing.md).
+- [x] Web integration — [GitHub Pages site](https://zelusgit.github.io/ev-market-performance-insights-complete/) is published from main at the repository root.
+- [x] Project documentation — repository includes the [project report](../output/pdf/EV_Market_Performance_Project_Report.pdf), data notes, dashboard sources, and story documentation.
+- [ ] Project demonstration — video recording and verified share link are pending.
+- [ ] SkillWallet submission — enter the live website, repository, and video links in the portal after recording the video.
+- [x] GitHub link — [ZelusGit/ev-market-performance-insights-complete](https://github.com/ZelusGit/ev-market-performance-insights-complete).
+- [x] Prepared dataset — [download the compressed extract](../data/cleaned/ev_market_cleaned.csv.gz).
+- [x] Tableau workbook file — [download the packaged workbook](../EV%20Market%20Performance%20%26%20Insights%20-%20Updated.twbx).
+- [ ] Demo video — record the walkthrough, upload it to Google Drive with viewer access, then add its verified link as a separate demo row in the README and PDFs.
 
-The Tableau-specific build guide from the scaffold is not part of this web implementation. The original dataset and data notes remain available in the repository.
+## Data caveats
+
+The repository does not redistribute the original source CSV. The prepared extract keeps all 200,000 rows and ten selected fields. It has 2,028 blank annual-sales values, 3,977 blank customer ratings, and one repeated vehicle ID. Interpret sales and battery shares as metrics over supplied records, not audited market totals.
