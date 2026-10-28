@@ -1,3 +1,4 @@
+
 # Data collection and preparation
 
 ## Source
@@ -10,7 +11,7 @@ The open Tableau workbook is connected to `ev_market_train.csv` at `/Users/dhruv
 2. Selected the ten fields used by the dashboard: vehicle ID, manufacturer, model year, manufacturing country, category, battery type, battery capacity, range, annual sales, and customer rating.
 3. Renamed the selected column headers for readability and trimmed whitespace around values.
 4. Kept all 200,000 rows. Blank values remain blank; they are not guessed or imputed. The dashboard omits a blank value from the metric that depends on it.
-5. Saved the prepared dashboard dataset as `data/cleaned/ev_market_cleaned.csv.gz.b64`. The gzip file is base64-encoded for the GitHub file-upload API; the static dashboard decodes and decompresses it in the browser.
+5. Saved the prepared dashboard dataset as `data/cleaned/ev_market_cleaned.csv.gz`. The static dashboard fetches and decompresses the gzip file in the browser.
 
 ## Missing values in selected fields
 
