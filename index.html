@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101d27">
+  <meta name="description" content="Explore electric vehicle sales, battery technology, range, and market performance across 200,000 vehicles.">
+  <title>EV Market Performance &amp; Insights</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#top" aria-label="EV Insights home">
+        <span class="brand-mark"><span></span><span></span><span></span><span></span></span>
+        <span class="brand-name">EV<span>INSIGHTS</span></span>
+      </a>
+      <div class="workspace-label">WORKSPACE</div>
+      <nav class="side-nav" aria-label="Dashboard sections">
+        <a class="nav-item active" href="#overview"><span class="nav-icon">◫</span> Overview</a>
+        <a class="nav-item" href="#performance"><span class="nav-icon">↗</span> Performance</a>
+        <a class="nav-item" href="#technology"><span class="nav-icon">◉</span> Technology</a>
+        <a class="nav-item" href="#geography"><span class="nav-icon">⌖</span> Geography</a>
+      </nav>
+      <div class="side-bottom">
+        <div class="source-card">
+          <span class="source-dot"></span>
+          <div><strong>Dataset ready</strong><small id="source-status">Loading 200,000 records…</small></div>
+        </div>
+        <div class="profile"><span class="avatar">DS</span><div><strong>Dhruv S.</strong><small>Project owner</small></div><span class="more">···</span></div>
+      </div>
+    </aside>
+
+    <main id="top" class="main-content">
+      <header class="topbar">
+        <div class="breadcrumbs"><span>EV Market</span><span class="crumb-slash">/</span><strong>Overview</strong></div>
+        <div class="topbar-actions"><span class="live-pill"><i></i> DATASET CONNECTED</span><button class="icon-button" id="reset-button" aria-label="Reset all filters" title="Reset all filters">↻</button><span class="top-avatar">DS</span></div>
+      </header>
+
+      <section id="overview" class="page-heading">
+        <div><div class="eyebrow"><span class="eyebrow-line"></span> MARKET INTELLIGENCE <span class="eyebrow-year" id="year-range">2018 — 2026</span></div>
+          <h1>EV market <span>performance</span></h1>
+          <p class="subtitle">A clear view of what’s moving the electric vehicle market.</p>
+        </div>
+        <div class="heading-meta"><span class="updated-label">DATASET SNAPSHOT</span><strong id="snapshot-date">200,000 vehicle records</strong></div>
+      </section>
+
+      <section class="filter-bar" aria-label="Dashboard filters">
+        <div class="filter-heading"><span class="filter-icon">☷</span><span>FILTERS</span></div>
+        <label>Model year<select id="filter-year"><option value="">All years</option></select></label>
+        <label>Vehicle category<select id="filter-category"><option value="">All categories</option></select></label>
+        <label>Manufacturer<select id="filter-manufacturer"><option value="">All manufacturers</option></select></label>
+        <label>Battery type<select id="filter-battery"><option value="">All technologies</option></select></label>
+        <label>Country<select id="filter-country"><option value="">All countries</option></select></label>
+        <button class="clear-filters" id="clear-filters">Clear filters <span>×</span></button>
+      </section>
+
+      <section class="storybar" aria-label="EV market story sequence">
+        <div class="story-heading"><span class="panel-kicker">STORY SEQUENCE</span><strong id="story-position">01 <i>/ 05</i></strong></div>
+        <div class="story-copy"><h2 id="story-title">EV Market Overview</h2><p id="story-caption">Start with the market snapshot, then compare sales, technology adoption, and driving range.</p></div>
+        <div class="story-controls"><div id="story-tabs" class="story-tabs" role="tablist" aria-label="Story points"></div><button id="story-next" class="story-next" aria-label="Next story point">→</button></div>
+      </section>
+
+      <section class="kpi-grid" aria-label="Key performance indicators">
+        <article class="kpi-card"><div class="kpi-top"><span class="kpi-label">VEHICLE RECORDS</span><span class="kpi-symbol violet">▤</span></div><div class="kpi-value" id="kpi-records">—</div><div class="kpi-note"><span class="note-dot violet-bg"></span><span id="kpi-records-note">Across the selected market</span></div></article>
+        <article class="kpi-card"><div class="kpi-top"><span class="kpi-label">ANNUAL SALES</span><span class="kpi-symbol green">↗</span></div><div class="kpi-value" id="kpi-sales">—</div><div class="kpi-note"><span class="note-dot green-bg"></span><span>Units represented in current selection</span></div></article>
+        <article class="kpi-card"><div class="kpi-top"><span class="kpi-label">AVERAGE RANGE</span><span class="kpi-symbol blue">⌁</span></div><div class="kpi-value" id="kpi-range">—<small>km</small></div><div class="kpi-note"><span class="note-dot blue-bg"></span><span>Across selected vehicle records</span></div></article>
+        <article class="kpi-card"><div class="kpi-top"><span class="kpi-label">CUSTOMER RATING</span><span class="kpi-symbol amber">★</span></div><div class="kpi-value" id="kpi-rating">—<small>/ 5</small></div><div class="kpi-note"><span class="note-dot amber-bg"></span><span>Average reported customer score</span></div></article>
+      </section>
+
+      <section id="performance" class="chart-grid">
+        <article class="panel panel-wide"><div class="panel-heading"><div><div class="panel-kicker">SALES PERFORMANCE</div><h2>Sales by vehicle category</h2></div><span class="panel-tag">ANNUAL UNITS</span></div><div class="chart-area" id="category-chart"></div></article>
+        <article class="panel"><div class="panel-heading"><div><div class="panel-kicker">MARKET LEADERS</div><h2>Manufacturer sales &amp; share</h2></div><span class="panel-tag">TOP 10</span></div><div class="chart-area" id="manufacturer-chart"></div></article>
+        <article class="panel"><div class="panel-heading"><div><div class="panel-kicker">MODEL-YEAR COMPARISON</div><h2>Sales by model year</h2></div><span class="panel-tag">MODEL YEAR</span></div><div class="chart-area trend-area" id="trend-chart"></div></article>
+      </section>
+
+      <section id="technology" class="chart-grid lower-grid">
+        <article class="panel"><div class="panel-heading"><div><div class="panel-kicker">BATTERY LANDSCAPE</div><h2>Technology mix</h2></div><span class="panel-tag">BY RECORDS</span></div><div class="chart-area battery-layout"><div id="battery-chart"></div><div id="battery-legend" class="legend"></div></div></article>
+        <article class="panel"><div class="panel-heading"><div><div class="panel-kicker">DRIVING RANGE</div><h2>Average range by category</h2></div><span class="panel-tag">KILOMETRES</span></div><div class="chart-area" id="range-chart"></div></article>
+        <article id="geography" class="panel"><div class="panel-heading"><div><div class="panel-kicker">GLOBAL FOOTPRINT</div><h2>Sales by country</h2></div><span class="panel-tag">ANNUAL UNITS</span></div><div class="chart-area" id="country-chart"></div></article>
+      </section>
+      <footer class="footer"><span>EV MARKET PERFORMANCE &amp; INSIGHTS</span><span>Source: SkillWallet EV Market dataset <b>·</b> <span id="footer-count">200,000 rows</span></span></footer>
+      <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    </main>
+  </div>
+</body>
+</html>
