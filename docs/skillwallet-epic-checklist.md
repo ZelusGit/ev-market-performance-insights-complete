@@ -13,12 +13,12 @@ This checklist reflects the deliverables currently present in the repository and
 - [ ] Performance testing — browser timing and narrow-screen results have not yet been measured; record them in [performance notes](performance-testing.md).
 - [x] Web integration — [GitHub Pages site](https://zelusgit.github.io/ev-market-performance-insights-complete/) is published from main at the repository root.
 - [x] Project documentation — repository includes the [project report](../output/pdf/EV_Market_Performance_Project_Report.pdf), data notes, dashboard sources, and story documentation.
-- [ ] Project demonstration — video recording and verified share link are pending.
-- [ ] SkillWallet submission — enter the live website, repository, and video links in the portal after recording the video.
+- [x] Project demonstration link — [open the project video](https://www.loom.com/share/5a8d9cd829fe4909968b44f0b236b6b3).
+- [ ] SkillWallet submission — enter the live website, repository, Tableau story, and demo links in the portal after confirming viewer access.
 - [x] GitHub link — [ZelusGit/ev-market-performance-insights-complete](https://github.com/ZelusGit/ev-market-performance-insights-complete).
 - [x] Prepared dataset — [download the compressed extract](../data/cleaned/ev_market_cleaned.csv.gz).
 - [x] Compressed Tableau workbook — [download the workbook ZIP](../EV_Market_Performance_Insights_Tableau_Workbook.zip), extract it, and open the `.twbx` in Tableau Public/Desktop.
-- [ ] Demo video — record the walkthrough, upload it to Google Drive with viewer access, then add its verified link as a separate demo row in the README and PDFs.
+- [x] Demo video link — added as a separate resource in the README and PDFs.
 
 ## Data caveats
 
