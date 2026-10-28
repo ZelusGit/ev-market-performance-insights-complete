@@ -1,3 +1,4 @@
+
 # EV Market Performance & Insights
 
 Interactive dashboard and Tableau story exploring sales, manufacturers, battery technologies, driving range, customer ratings, and manufacturing countries across a supplied 200,000-row EV dataset.
@@ -12,7 +13,7 @@ Interactive dashboard and Tableau story exploring sales, manufacturers, battery 
 | Live website | [Open the live dashboard](https://zelusgit.github.io/ev-market-performance-insights-complete/) |
 | Website source | [Dashboard source](index.html) · [Styles](styles.css) · [Interactions](app.js) |
 | Tableau Public dashboard and story | [Open the interactive five-point story](https://public.tableau.com/app/profile/dhruv.shrivastava/viz/EVMarketPerformanceInsights__17931690754480/Story1) |
-| Tableau workbook file | [Download packaged workbook](EV%20Market%20Performance%20%26%20Insights%20-%20Updated.twbx) |
+| Compressed Tableau workbook | [Download workbook ZIP](EV_Market_Performance_Insights_Tableau_Workbook.zip) · [open the original TWBX](EV%20Market%20Performance%20%26%20Insights%20-%20Updated.twbx) |
 | Project report | [Open the 7-page report](output/pdf/EV_Market_Performance_Project_Report.pdf) |
 | Prepared data extract | [Download compressed CSV](data/cleaned/ev_market_cleaned.csv.gz) |
 | Story sequence | [Read the five story points](docs/story.md) |
