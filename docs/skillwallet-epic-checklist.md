@@ -17,7 +17,7 @@ This checklist reflects the deliverables currently present in the repository and
 - [ ] SkillWallet submission — enter the live website, repository, and video links in the portal after recording the video.
 - [x] GitHub link — [ZelusGit/ev-market-performance-insights-complete](https://github.com/ZelusGit/ev-market-performance-insights-complete).
 - [x] Prepared dataset — [download the compressed extract](../data/cleaned/ev_market_cleaned.csv.gz).
-- [x] Tableau workbook file — [download the packaged workbook](../EV%20Market%20Performance%20%26%20Insights%20-%20Updated.twbx).
+- [x] Compressed Tableau workbook — [download the workbook ZIP](../EV_Market_Performance_Insights_Tableau_Workbook.zip), extract it, and open the `.twbx` in Tableau Public/Desktop.
 - [ ] Demo video — record the walkthrough, upload it to Google Drive with viewer access, then add its verified link as a separate demo row in the README and PDFs.
 
 ## Data caveats
