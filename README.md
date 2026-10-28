@@ -9,7 +9,7 @@ An interactive, browser-based dashboard for exploring a 200,000-row electric veh
 
 1. Clone or download this repository.
 2. From the repository root, run `python3 -m http.server 8000`.
-3. Open `http://localhost:8000` in a current browser. The dashboard decodes, decompresses, and loads `data/cleaned/ev_market_cleaned.csv.gz.b64` automatically.
+3. Open `http://localhost:8000` in a current browser. The dashboard decodes, decompresses, and loads `data/cleaned/ev_market_cleaned.csv.gz` automatically.
 
 The dashboard uses only local HTML, CSS, and JavaScript. No build step or third-party chart library is required.
 
@@ -42,7 +42,7 @@ Metrics are calculated from the included cleaned CSV. Missing values are exclude
 ├── app.js
 ├── data/
 │   ├── raw/README.md
-│   └── cleaned/ev_market_cleaned.csv.gz.b64
+│   └── cleaned/ev_market_cleaned.csv.gz
 ├── docs/
 │   ├── dashboard-design.md
 │   ├── data-dictionary.md
