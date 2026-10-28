@@ -10,7 +10,7 @@ endobj
 2 0 obj
 <<
 /Count 7
-/Kids [ 3 0 R 10 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R ]
+/Kids [ 3 0 R 12 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R ]
 /Type /Pages
 >>
 endobj
@@ -55,10 +55,10 @@ endobj
 6 0 obj
 <<
 /F1 7 0 R
-/F1-0 30 0 R
-/F2 8 0 R
-/F2-0 31 0 R
-/F3 9 0 R
+/F1-0 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+/F3 11 0 R
 >>
 endobj
 7 0 obj
@@ -72,6 +72,15 @@ endobj
 endobj
 8 0 obj
 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
 /BaseFont /Helvetica-Bold
 /Encoding /WinAnsiEncoding
 /Name /F2
@@ -79,7 +88,16 @@ endobj
 /Type /Font
 >>
 endobj
-9 0 obj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
 <<
 /BaseFont /Helvetica-Oblique
 /Encoding /WinAnsiEncoding
@@ -88,10 +106,10 @@ endobj
 /Type /Font
 >>
 endobj
-10 0 obj
+12 0 obj
 <<
-/Annots [ 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 34 0 R ]
-/Contents 18 0 R
+/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 34 0 R ]
+/Contents 22 0 R
 /MediaBox [ 0 0 595.2756 841.8898 ]
 /Parent 2 0 R
 /Resources <<
@@ -104,7 +122,7 @@ endobj
 /Type /Page
 >>
 endobj
-11 0 obj
+13 0 obj
 <<
 /A <<
 /S /URI
@@ -117,7 +135,7 @@ endobj
 /Type /Annot
 >>
 endobj
-12 0 obj
+14 0 obj
 <<
 /A <<
 /S /URI
@@ -130,7 +148,7 @@ endobj
 /Type /Annot
 >>
 endobj
-13 0 obj
+15 0 obj
 <<
 /A <<
 /S /URI
@@ -143,7 +161,7 @@ endobj
 /Type /Annot
 >>
 endobj
-14 0 obj
+16 0 obj
 <<
 /A <<
 /S /URI
@@ -156,7 +174,7 @@ endobj
 /Type /Annot
 >>
 endobj
-15 0 obj
+17 0 obj
 <<
 /A <<
 /S /URI
@@ -169,7 +187,7 @@ endobj
 /Type /Annot
 >>
 endobj
-16 0 obj
+18 0 obj
 <<
 /A <<
 /S /URI
@@ -182,7 +200,7 @@ endobj
 /Type /Annot
 >>
 endobj
-17 0 obj
+19 0 obj
 <<
 /A <<
 /S /URI
@@ -195,347 +213,415 @@ endobj
 /Type /Annot
 >>
 endobj
-18 0 obj
-[ 32 0 R 33 0 R ]
-endobj
-19 0 obj
-<<
-/Contents 20 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 6 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
->>
-endobj
 20 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 1602
+/Type /Annot
+/Subtype /Link
+/Rect [ 53 415 378.066 428 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete\057blob\057main\057EV\137Market\137Performance\137Insights\137Tableau\137Workbook\056zip)
 >>
-stream
-Gatm;gNM:1'Re;/S>TMX/tuO`Hd,KXOuC"-'"@>H(806e>Y.]5XSMWO'%iSSgc@e.f_FZ8FS=:OT]"de]$I)TGa61i9+'1(HjMVT+lj_QR\0L;+_g9j@0@k#;D6+AA00T\0Rn/l5aW1QU&fk)`+amcCP]i\G\J/dT2fiOZ:g;3pur>2Db(`*?NMMDBGONC.m''bl5LB2&W%o1.HE@V:;=ZdoD/8t%^YEtnp:<*r6rV!rd_%F2cjqSju3;?!6jTWn"pm]bbqf5H2]2Ph]RDWPE*LM@6eKA`eWN*dGW@'K)On=0hImt.#:3+SaDN*GYsn2nS&]80j^&#%"=b(#GDV+o$Rd.]&6NAKMtLIm!O9\qTD<VFoCPIp&3!\T>X+fK+'qeb9ioH$#FS8nW]h-)kg\n^gV6X+4),:YeFs%RJP2<bd^hK<O8R\[Zc[dX0p=t1bd:R.sYWT26>LK;.sX.r5K*HB$Ca5i>TrZ'JH73GmV,MUCmaco!Kkq%\bC@_2M>3?'O\VCLI*?:DZX[Bs++>HG,D6Q'_j7OL%Bp=bl7<g(=%2@l+n$JO7p>;]IWp\;%s,Yj?8L$I^F4A">=j?_Q'S1[EUm\mWNs[/n1'FX&EIg'mdmnT3^&'YbC\%SA$b7C*'7RME<jqcWPgaYQca]FdcSb<i!@OrQRPj'i@B#S$kD#)^dp6JPFk_Q6\<eD-=g$eb*K98K?r,l85B,Ja9M):><odV6GX"6`Xb=<mgbenYLI!a]rFZ2)J-`^nH^>r1hiJQV1D'PjQS?C.BQ#kVX4n#@%e.nam*cWZ0c4j[77&\d@e/&OJFFk='e5R63<-D'Ck+`"kA-5qeBaUHYR\Bosh(mS1aW'KFPNOJ#;97uR`\Ls+[%9DGXq9QL4b#3BR(C1,>`*"tG%!?N+OI&;;O`bR'.)&mcbQ_dk[SpcYOqUP)5*V%5M\_po%9NigR)VINU/S.<%[Z1*Ne.+8EoZ2m?Vf"MeA1G<q9AQroMLncqE$g6OX8?P4SlWn8oElgp8`5_nf9HnX3N?h"i;RO92TdG.ZGF64Y)cH<gP;5E9Ip]guD0Q++jtPe=+tY8FMs'OO[49D5Auilj2/Fma_G4Zue<iTIjY2=HTiS>Uilda^D[EKEL6dA^P5QgU:.V&c62`*+o2[`L-lHqjU`="2%gbLhr\&lfTG$BgSOBUN#@Ba>-l35VF)kg'ud(e(3:%,4*#&s5N+slf>VI\#?o;K=?PZ3&C3uM]n(/O0h(gBUb+9L%QF(XS>0#H21i(C$$!lnrK,X[Z`d`8rGAeXLKuWmINcT:Ifo*@8eALN"`Dt%fb`\n\*X=3UpSnESXRhrTm-pG>d*.!]M/Jia@GUFo+]W_BTb7Z!6BQIFW^FgZ-8:%6-uJiSZCR;kTf,Xt_=*[O&=4H$-RS9_DWD,7X1(:t4!O'-EcN&.U.HLFLocj;?QWNAMOW=l[>9d93/b6MSXOO-"_&4cp2/Kn_&<[b3$@IY?dKp.V.TNt0hjE&U#:%,@!,531V[qqGVqRn++,h&thP?=N;'qdZUF[>bTMO1irVd?"S7V$E<.Dhno4n_Ofu(rEu&5;;lGJYo,V\[D/*I0H8!$Vp[)AobFD~>
-endstream
+/P 12 0 R
+>>
 endobj
 21 0 obj
 <<
-/Contents 22 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 6 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Type /Annot
+/Subtype /Link
+/Rect [ 216.0945 524.0854 315 534.0854 ]
+/Border [ 0.0 0.0 0.0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057www\056loom\056com\057share\0575a8d9cd829fe4909968b44f0b236b6b3)
 >>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
+/P 12 0 R
 >>
 endobj
 22 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 1814
->>
-stream
-Gb"/'9lo&I&A@sBm&?1\'S[aHYOT_WA4K4-.h\&6*[(lR&5r]6P'3A[O7.Z7.5<&>8kZXKf![,]$fEU[(V:2#@,`ggs$pjTha2R97=\JO/q?cN6MLS9iRug=_fm\n3ah`6DqY4/JVamO-J)l::u<BZ$G[,[f6?`W)BA#[VXM+NG;2e;2?9>?hf#C4#D9V_j+60V,]F'gV=$u7qDA8=@lT/:"N!%/(k.4/Mokj)#ijn)l>CW`EI0^!?XRt;*F6DhVZ;2HN$ii<L6j&WL?#m;pa_#)+FL.SGG]S_D30:ZmHNk1kDs;.D=<H>Sf8N,m8,X1[ZKaANphU/&]aQMr:YMQs0r[TW1Nq[Pm*tjJjm$Y?J#Hsq!lgH1;"L]L2_-Zn_s6,B\H?mY7e"e;BjIK=Qgg.K8ncsB/tuQ,15FE`:lF4E<63F//&_Q`Ch2)SZ$_3p8oC<25g*qpTG"2p'riNodc5jO_0oAAi4R/YKmC0q)Q&j7UoTIE6Dt?d^7Jn/U=6;IB,2sh&kLON%8:5/nECeC/NRg-sEf5eD[m$7ld1D`s3o8&p:D2`MhJ*''eCE7QC=PM='!PLu\fZ2^41@"'<N;gBZG<aqMit*7A:3M[33,^Yj\e'7'==)`.5^_5Chh<L0t%N]O+<AfUG!HXJ%0Z^AX_i/cOlUXL9K5W?_]SIj(pJ6f=R?KFMl3Ni:iQ2AA0P#7@,NfN0]AP-Jg3Fl*i#L$%slUqu=O.3Nf\-^cL!mun)4=anibGBMGDVmXn02&?dbf>iFF3GFLbAm1[D;56['Gl*_eFo.UlKk0g-4:RY'8![uk_f_/18l<#n0lic9Zm55Wf]o=%n^3T=jH_So+!ul%aciFG2TX)ip1H(eP4;jP#B+:62S(#drD9Ya$bALibo!<9Aj[kZmDALJ^kB8[D6iB51eekZ.6[bB&sj]D]6%]@j`A(]bW%)-k\S:Psc9/Um_*cC,_rI<7H+Zap:[P>j,(G55\Ri`Rd5o];)?&_[3:#DUg]iW0$#i;<8aG7>hS$P;'9VZ_2R$(d6Pe-CL=?UW?O+IQW2f>?)Tp,jP!$'#?ma']se"a^kHJS>cOj=]-f4S.l;llDD/U=@DiM*5JXL"])?<h_8YFZDC8Ko^n7sP$C/@"2k)VFV^sN3Pu_,D<@4t[=.QC>%F$lQEM?3>]<g(n/.X@BW,\m/"59k%:/2:Q"^e-.F?#rH:89j]q9'C<k>(H)=*DEq0cfV>r?(tMQp4F7:r(J/C3$mf&)E($f7OR?kLT&;PTaPX$jsJfq%(@9k`JPC3#]dHiFF+GPYdMUEhG&.kYgXK:8T+]WmV\4_#=PK%cSS>g+8fJ_h.;TiL+B\<#WQUhMB!fAVQG=%jmL`i_AoK6;NlkHWm53S*#?i:.f]DQ^nr?[U&CFfN4Z&an%Lb]&ae\,B+,*-./'+E41a:7\F^*JLJrQ!!<fUoh$Rgs8WH`jI]>!UI27Fp%A%Wlr7U*ESP"`Ks[A+=l9FF#@SJeq4W@dt9,PZ*<Z_E8P4M1_&iH^d#Yn]GAoa:1QfM@8aHgNRJM"7i;f1?KFI)DApcQ[S86PC2q_lNpn"Q]7q'1JbI%=%e`YQs"B'!jlGoU6#JSfDkIa]5PKlUg[O@C!%t1u!PDnQC`4abSkrhlJ=^LF(;W\d7t(9BAZ:!2$[o[j0#X@YHK=q78C7L2O0?,*[.,aVDTYU'R8.E>WQjtW[hj/n)cmhc26T2]Jj-uj/@oIeXrYdH-]A'ADb_CpmkoD?D:]t]>Kf^Hc/TZ6q.Ik8\@H0AAL>R;96E=PNlY84W9q?ir6Lr,pK,6*=WYlf"G@C3nG~>
-endstream
-endobj
-23 0 obj
-<<
-/Contents 24 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 6 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
->>
-endobj
-24 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 1727
->>
-stream
-Gatm<>BcPr&:Vs/R&<+'Sl?Gllfh?:3c2HFRbDTP=U$m`!CS2h2s9Ogh\fj4ga9;89+o:\8GYg5N95]o*.K"+5:lom-LglK!QTn)$'*%g83XjH3Oq4[;;d2#%kNS_5)Fj0*%sFA]g&L3MjP0O!%'E.+s.nni-QX-;%W)c'ehl*!/._.e1Zk!bR<nf"QjbQ%NNhS1tL@Df)rNHo,T3!+=Z9goG`0AS,G'9i-IGrpbM_oG'-!&hr+'?Ieit11'dRZi-P+Yj7GHbg%>-a/GU<LmuY1-d)#:e2doJJ"oHL?K>CoWK&,XM11:_MJ)YfG*APK"mRIjCfC=JA_!`uJ-9ppOK1Cj7^2Uon/@Z1PnA8\KVXLC\rm`(bj7'4pJfVMaq.LCo`P76c#q%q\]?"FdmND=f[B[n%(4Y2,V9fa7$Cr%gD-\[J^g3G-[pW*2<I&_.$Hp(qUu'4[.W(0h5lP%*8rG#teL?;(K4ZFG1^Y$Unue6X.\Ti9d_Jb]'(ANNkAh#kg2?LN.B7P?d\bPm6S7t/Bmc/f;aA$6AHQNj1u9fPK.8uK,L]Yh$?bse+_jm18-TA%YN<X^NJ-(Ph(FT?XAD@5=J^oQ?Ga+[5umoSI=f,s($MID/acB2ZkIV9#rj#qJB&^W&,J!.n)@L?*k0%_pAh*QB,_A#i**0b&YVZ//a74VKtn4%30kANU!\rq;5fB=LB^J"2V35\63fdP[U)5+k7q<tg$&7O:h3`#"p?2\;+T*O>3Xdq;R_9)3o?kN::KQ]<lh(.F^Ehq;Ge)4G-+rk)XU>'edrm9fnc02&k#TIbP<UM*4/mnH8Vup3u2L$S?pFNOjPp4W3uJ^:E`*W/S3Ig+jCu$"YH4#7R/<LglN#:O3)EpBc:-D,9-iW@q_G5ko_T=Lt03l6tK@j>HMl]+Reo\NnIj+]U040MCE54\&8uf-MU<(q4pnWo/mF`;94,LG2SXD"Jbd"i[c)1;&5g85dMohH2T;n/$jh7RH-OmM;(aK[+^2Q4#cWWfp7m'+8Z!hI_2\Bi#rKp]%l$&H6pear5T:7r?pQ[J:HOg!^)q5PFue)YV6Et&OG;G$DEoK2S?IQU,>a+,JDks4u-t0SY%U&H$'P'@t;fQf;,F4h>'qp`gtn`$Bq/?2BEl)pDAd(cam<,(R"b;cd=.k2T?g#Gmpq#b1*f1/iI3Ga,"onL"WQ0M`_`AF"Z>j62$+=cYV)ikQ.JLV4)$W%n6PJgZCqJR.2o(cF"om1LX;lKk6k3UJ9<p3?A;&6h:'%.@e`I(AOZ7(NZ)2T4-@k!VT-!W_DlBnEVgecEs]Aqr26mruU<I%.oHdh1Wc#TE*hL@F*<fNY/<NFk'p/7mZJ+2/1D(.8Z^a\g]8RaUY,ET)(0@8QOJ^?l5TOW%/XgPg?H]LB>R7!N`X!@Fdpl*P8ui9D2tqWPWV;a\j.VHAoPkp5P0CLWo0M"cVBJ_0Z8`%4g05ast;\r=Q_,iog2[mkrb9LNQr-Qb,;BDWt_%AQ9`Vp)inB^ql*[(382YOZO-EI1b@nU-2)T'*NZ6?mjUab!:N+r#S&m2i^8brar(=)t;.W,k#Z[nuki4+X'@uh3bk6nH#65&%F_!L56+Grm"mK]osmhrM+5q[S8#.8>as<TgWK#>!mor8JVgF^=a;:3-Em5DB3UZM,I"Dau6Sqf[CaR&o$nI*_J(&qIWYW'_s3fgXDncQa+rHD_XXg'O\Z!$^1PBG/DA9WRTS"~>
-endstream
-endobj
-25 0 obj
-<<
-/Contents 26 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 6 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
->>
-endobj
-26 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 1992
->>
-stream
-Gb"/'>BcQ+&:XAWR&:uaa!N?]RO:Uk'.:L_,3e\+<e_GnAJ_0=SGr</+FtfiZBU+9.?5DlB%_*?47`mi9`2r"s5O1=D$7$q(bc>l.58e]+M*/5FS+tA#X$:S>VLa`0^TF1d)6:s7dl@0DutXq-ic=c]YMM@"h9S2R"=G&n)Z5e=onE*J'`%n(P^u/Nt6t\ZI!*SmV+7Wl.5r<Y2M,O0Sg&q*e&\+ZdHg%"F%c2`U2mclt.r)hr+';I/32Y1^<^oi,3Z6@5s'N1q^F@7DD4^'r"b4]!8s7fEM^(DgQhLA+:pg_0YcH);bf2f6/0V*I5`u9fE?nYaF_[*e*s:@m@B>"G\mbI:3.l]O3I7_Qdml`TN^VFEr4SFp2M;k?BhRh@Bi5a'8C&X-%%5BbZ^s(<24GZLQE;/_;;.8p\cLAHLb.h2oH%ISg0DYOEuGjA:LYd.B/_iNuAas5bEefn[d@rM>"4Znn2YZaurJmIO08I\2rYU[tg1Gg3s7j60%t$Fg^rV`-ut#^j\"H3>7a,(A/NBNq':1UfleEQ+t^mf`8*BT\\Bi^$$:r3_s[gUfc('9GGt6t_d8>k2F?1]'GMSV[tWW@O+HN8KOP&Bf*_W<*]=E@ilKAV/MpSOfmri3Sj0C9QOl:i/mtR+7B_e#>mp1^Z+3ai\st$^FFB<#W0d1U1./&%is*\]F>6.,?jM$$=Aikk"m;89oKA#C@E'P'GUm1$*OamEWd2'YTl@QZ8;4P34OBH&8d;(!gpJW'a`R.4`&kV+S\obk8d9,;7FC8'p7"/]q2^%n%M,2gh4QF3I.Gk894>-Do#0"2*Lrp]]ZJ2L(l6gG9:AM8qK&^_<3Q6E5ftPe3t>Fl=ED@jL\?QC<cYq4k#%3!4TE2ME1c:-V]uef97(.jYuccbs9>eS[7u)"aN@SLBu=;[BOA,mmN;`q>u@5W+h,i!6*'%sZ]!_jUXRZDolp0KD6j\Z2<o@0PMi9^D*Gc.O3.n*<Utg9=jbFM+\Wo-O6*e@BBpfaquW2E)Ch/D79?1Ufg8=qkdEK!iDK&pS2CZR'SAJo*k9GeC<*";5ocf':qSf`[)Km<'rX[$1>AIuB8@%MF%,-Q$i0*&!nEWnieW[N'QnA=UJ*8je;L$q%\"J%L8e,eHuaIo\;U#hlWmk`Y_E@5#g6Ci_(W$.]Y>'NA4dMJ/(YX"1V7I7h(nN=C.bn2WBg508KZUSc'T8Le>Z<[;Had[hA'PR=6H=WX*a`oH.]3n^H?V`Ii[$.qYAfO.MX/F-;nc"4dkfNEo_7968#nZdZg`B9'tldgY6/O3WCOcF*`Q-.$)^pTcEl.R3t[QJZVE;]M]3aeb(WD`@'dYQ\TjAuppke/sZYu@<j1t)%JL;f$HG6A\p^DT03S8l]+_>"Bm?Xu#?<?B=?:J<mejPe+n'h1cQ*)Y;bjqnD<SnQi`lbsHiJCe(&?:MP!Z":CJ+s_?6"6/@.Csu1p7aHQ[ATu(MFuNmRn3X0)`r1mJ7)5ZTropa3gM^+70_EA?Ws9X:DK2Nt:A'f@.;Q\(IDB+ZZC^Ws_HO-Nb]BimLJY""7ML3aNIAUD!]NlR8Y*gmC(6YU^QbI@OCDk;R=2l`jV>5S7u0R'Q84g$O)V#8<%+48?F$g@Cj3XN4eS=GCeeh[e;X9g8,+:V/B2![5f.K$($?D3I?FN?hC99dm_8$6\@*Js2V9)q\/l:<F/"7Z9#9b7$0\rKpp8@pWep*dgilR=.koUKPXru$+aI<i)SIIS%=_Z()V^#nK/)k/PoDCPQ?SHR@9HJ"VPb,!S5R0:H4/9Y0(9cj4<_GfOIV=G+h^p^?;>Ht'\SgBFsLJ32,l%UOMDe(2Ws0(b^!NQeV;#`YlBO?&$Sf&/&3a[Rcg?5d_/i;BRLNi5%+DmA3jaqdi?b8JR^0`'A=Id8nheH_8>[e$q!Q@RQ?O_bua)onf6n`Q68g$=b:]A]i7r]2QblP6mD#980Eqdk_GIsMn^`q7J80eK;3nra`B3n~>
-endstream
-endobj
-27 0 obj
-<<
-/Contents 28 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 6 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
->>
-endobj
-28 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 1725
->>
-stream
-Gatm:?#SIU'Re<2\5,IM\;V\+QAdqONK\X'*7*3I4VT;XM6Y]0UdJ%#?0oW#;N_bBbtnpV&i^)<H,%Y8kK4#?J,SLc.fk)oiSrPr5CiAIr/cSn^4U-Gp39&i;%SKpOCXl+__I7XLL3AMhOI.C'B1D7!/=u=8g6AM+UV`=-)8l:R=Ngj(Edo#PMSHO+lN]V@N^frO%2CtNO/;ir;$CZ6mCMaHq6miT>$*8amuoT$B+0>qJLR?RD5<0%ksKVAiIK#.tGA8(<a<sVf,L9:)A,toLDG:62HcQHK76sLVt9iUZ_(*,NI[d"]*]T1@]$OU1"aFlgXG,57^*D+n/cc(Y8]_9u4c+]dQI&"F`1"7ef2C_P+"FK+XJU]q<Ntaj"obJ9S?S=ZT,eGOlOb1nXc4_CD*/<mOZi4fKPHUXt\:Y_t+e59Rj2AdM%teGM!e5VXS_)u@HsfOQk]CFUpl0LM;M%_M/K3MZh2X]D&rAg(+7RS.8.:r1?Uf$mm#pJCG,"/%CS:$%*iZRs__-u"3)TO>:b#R9Ye<[^\E_CJmNc$Pna9;i8FUkbDb\!l8mQ8`\<1BtV"cW3t<^r8!n>+WQjXUVaah:XJrd08=sR_?P\(/h^ZN)h(#`di;]g"ahP<gAYaac4L/9he'qqUbri#s9Ql7UQpk8c4&]n;`jjQ%^7U(C5%rWF>Kf&-N3A6Z(4FBaBN/W[jLffU88cF3,A6:sbY^<#4&D8Si^u[L>Br'mmaE3P&c^P#BG[MAFdW)(")`"rIItF9&P.6.7Fg[\+C0Tdl2"B?[:9D!)eGWL@:uW-/GIY1H-C3^YF*1E?hd_Bm/B.u`p<[&.52+$Jf,Ef$18XPauY7::\*;7`P9SX#/&9!d*B6Wrg5QqY+An[&q[FfBJ^=0cG,ht'#p<[t%nc4k4"XrRd-)J;\*-UJoo8'hof*28mpVBMH1C1he,of4OWNY7=FpoWsFC7ldGn5dY)<!E@b+gr1,WR7bgHD+1W$/<NaUCOq!5Fu_g2cT?$Y+m,<`\BsAm9&PK<T3b^>)T<+3s+,eYc4k)Gs?SoNB)QXKai(P*&s[bO#db.c]EE6j;NbdQ%O3mTXP_(@p)i'-.HPal:nF,h4WB`cE?)W[<eL8isaU:SMI9HAXd-/)(2rMpF/'TN>CK\Fokm6*,9TAT9TOrIPfpaP-HP'&gr9RUdG$)J/oHC9a8jJ(%`OL4Aj<_m1V/W9'&XOM\>IqqX:4c!-9,pXGLf=$*hB&)?1N,q2s^kla0kS4Zg_"66g`m$RbAE<#eK^A_/kC48lrQDN@biff@8mdEY=uTR-oc-NO*>qaC%im5ld=CnXk:.GE=&8@9R`@KAD[\YXG&'RL$9daZsD"tO3i11C6AX6[TQ0eG+]%nM48W=V$O>GWndVZ7^Ta%cOcJ?L<a"QjpmoRrQf0StU0l72D?Z-(kk.*X\Ui`LE:CtS23<du["IUMjo/p&^;B'QSo*H(Yc!MN=,/mn8IY`K8AM(>Yr[X2BF?P7[LO!D:$^VE!!--Is5dcaG2,%U<,X'Ag_3-['SJRIC>$*4;!.Q$G?mDK#6#NIf3T"(*s\M5ZRP\`s"DV+Rbm+**!XpD*GCJ&UE_Eo07C<L?+amD]Zj5_OWOlF6J5c/K7\[VCMJblqYNqC0Gn_5_[a9<1s-9?<WO_\:@[D`/tocC7C?.H//E,$f\=B"u+T[-i.UX!cer#p'M1kLQo1R#AtlpW@Bp((_)TcX~>
-endstream
-endobj
-29 0 obj
-<<
-/Author (Dhruv Shrivastava)
-/CreationDate (D\07220261028221040\05305\04700\047)
-/Creator (\050unspecified\051)
-/Keywords ()
-/ModDate (D\07220261028221040\05305\04700\047)
-/Producer (ReportLab PDF Library \055 \050opensource\051)
-/Subject (\050unspecified\051)
-/Title (EV Market Performance \046 Insights \204 Project Report)
-/Trapped /False
->>
-endobj
-30 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
-endobj
-31 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-32 0 obj
-<<
-/Length 4348
+/Length 4848
 >>
 stream
 q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
 q
-.862745 .898039 .909804 RG
-n 48.18898 39.68504 m 547.0866 39.68504 l S
-BT /F1 7 Tf 8.4 TL ET
-.4 .466667 .501961 rg
-BT 1 0 0 1 48.18898 25.51181 Tm (EV MARKET PERFORMANCE & INSIGHTS  |  PROJECT REPORT) Tj T* ET
-BT 1 0 0 1 543.1946 25.51181 Tm (2) Tj T* ET
+0.862745 0.898039 0.909804 RG
+n
+48.18898 39.68504 m
+547.0866 39.68504 l
+S
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.4 0.466667 0.501961 rg
+BT
+1 0 0 1 48.18898 25.51181 Tm
+(EV MARKET PERFORMANCE \046 INSIGHTS  \174  PROJECT REPORT) Tj
+T*
+ET
+BT
+1 0 0 1 543.1946 25.51181 Tm
+(2) Tj
+T*
+ET
 Q
 q
 1 0 0 1 54.18898 769.5354 cm
 q
-BT 1 0 0 1 0 4 Tm 21 TL /F2 17 Tf .070588 .215686 .278431 rg (PROJECT OVERVIEW & LINKS) Tj T* ET
+BT
+1 0 0 1 0 4 Tm
+21 TL
+/F2 17 Tf
+0.070588 0.215686 0.278431 rg
+(PROJECT OVERVIEW \046 LINKS) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 54.18898 722.6354 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 28.1 Tm /F1 8.8 Tf 12.3 TL (This report describes the project scope, data preparation, dashboard, Tableau story, publication status, and remaining) Tj T* (evidence. The public website is deployed on GitHub Pages; the demo video will be linked after recording and Drive access is) Tj T* (verified.) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 28.1 Tm
+/F1 8.8 Tf
+12.3 TL
+(This report describes the project scope\054 data preparation\054 dashboard\054 Tableau story\054 publication status\054 and remaining) Tj
+T*
+(evidence\056 The public website is deployed on GitHub Pages\073 the video link is included\054 but viewer access should be) Tj
+T*
+(confirmed before SkillWallet submission\056) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 54.18898 537.6354 cm
 q
-.905882 .956863 .937255 rg
-n 0 180 487.5591 -20 re f*
-.972549 .980392 .984314 rg
-n 0 140 487.5591 -20 re f*
-.972549 .980392 .984314 rg
-n 0 100 487.5591 -20 re f*
-.972549 .980392 .984314 rg
-n 0 60 487.5591 -20 re f*
-.972549 .980392 .984314 rg
-n 0 20 487.5591 -20 re f*
+0.905882 0.956863 0.937255 rg
+n
+0 180 487.5591 -20 re
+f*
+0.972549 0.980392 0.984314 rg
+n
+0 140 487.5591 -20 re
+f*
+0.972549 0.980392 0.984314 rg
+n
+0 100 487.5591 -20 re
+f*
+0.972549 0.980392 0.984314 rg
+n
+0 60 487.5591 -20 re
+f*
+0.972549 0.980392 0.984314 rg
+n
+0 20 487.5591 -20 re
+f*
 0 0 0 rg
-BT /F1 10 Tf 12 TL ET
+BT
+/F1 10 Tf
+12 TL
+ET
 q
 1 0 0 1 6 165 cm
 q
-.070588 .215686 .278431 rg
-BT 1 0 0 1 0 2.4 Tm /F2 7.6 Tf 10 TL (Resource) Tj T* ET
+0.070588 0.215686 0.278431 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 7.6 Tf
+10 TL
+(Resource) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 165 cm
 q
-.070588 .215686 .278431 rg
-BT 1 0 0 1 0 2.4 Tm /F2 7.6 Tf 10 TL (Project link) Tj T* ET
+0.070588 0.215686 0.278431 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 7.6 Tf
+10 TL
+(Project link) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 6 145 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (GitHub repository) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(GitHub repository) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 145 cm
 q
-.090196 .411765 .666667 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Open complete repository) Tj T* ET
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Open complete repository) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 6 125 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Live dashboard) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Live dashboard) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 125 cm
 q
-.090196 .411765 .666667 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Open public GitHub Pages site) Tj T* ET
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Open public GitHub Pages site) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 6 105 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Tableau Public dashboard and story) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Tableau Public dashboard and story) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 105 cm
 q
-.090196 .411765 .666667 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Open interactive five-point story) Tj T* ET
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Open interactive five\055point story) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 6 85 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Tableau workbook file) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Tableau workbook file) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 85 cm
 q
-.090196 .411765 .666667 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Download packaged workbook) Tj T* ET
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Download packaged workbook) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 6 65 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Project report PDF) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Project report PDF) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 65 cm
 q
-.090196 .411765 .666667 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Open this report in GitHub) Tj T* ET
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Open this report in GitHub) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 6 45 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Prepared data extract) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Prepared data extract) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 45 cm
 q
-.090196 .411765 .666667 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Download compressed CSV) Tj T* ET
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Download compressed CSV) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 6 25 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Story sequence) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Story sequence) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 25 cm
 q
-.090196 .411765 .666667 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Read story notes) Tj T* ET
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Read story notes) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 6 5 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Demo video) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Demo video) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 161.9055 5 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 2.4 Tm /F1 7.6 Tf 10 TL (Pending recording and verified Google Drive link) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(https\072\057\057www\056loom\056com\057share\0575a8d9cd829fe4909968b44f0b236b6b3) Tj
+T*
+ET
 Q
 Q
 q
 1 J
 1 j
-.862745 .898039 .909804 RG
-.35 w
-n 0 180 m 487.5591 180 l S
-n 0 0 m 487.5591 0 l S
-n 0 0 m 0 180 l S
-n 487.5591 0 m 487.5591 180 l S
-n 0 160 m 487.5591 160 l S
-n 0 140 m 487.5591 140 l S
-n 0 120 m 487.5591 120 l S
-n 0 100 m 487.5591 100 l S
-n 0 80 m 487.5591 80 l S
-n 0 60 m 487.5591 60 l S
-n 0 40 m 487.5591 40 l S
-n 0 20 m 487.5591 20 l S
-n 155.9055 0 m 155.9055 180 l S
+0.862745 0.898039 0.909804 RG
+0.35 w
+n
+0 180 m
+487.5591 180 l
+S
+n
+0 0 m
+487.5591 0 l
+S
+n
+0 0 m
+0 180 l
+S
+n
+487.5591 0 m
+487.5591 180 l
+S
+n
+0 160 m
+487.5591 160 l
+S
+n
+0 140 m
+487.5591 140 l
+S
+n
+0 120 m
+487.5591 120 l
+S
+n
+0 100 m
+487.5591 100 l
+S
+n
+0 80 m
+487.5591 80 l
+S
+n
+0 60 m
+487.5591 60 l
+S
+n
+0 40 m
+487.5591 40 l
+S
+n
+0 20 m
+487.5591 20 l
+S
+n
+155.9055 0 m
+155.9055 180 l
+S
 Q
 Q
 Q
@@ -545,28 +631,34 @@ Q
 q
 1 0 0 1 54.18898 495.7929 cm
 q
-.094118 .513725 .431373 rg
-BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Interpretation note) Tj T* ET
+0.094118 0.513725 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(Interpretation note) Tj
+T*
+ET
 Q
 Q
 q
 1 0 0 1 54.18898 452.8929 cm
 q
-.145098 .2 .231373 rg
-BT 1 0 0 1 0 28.1 Tm /F1 8.8 Tf 12.3 TL (Values describe the supplied dataset and should not be treated as audited market totals or forecasts. Annual sales and) Tj T* (customer ratings include missing entries; each measure excludes blank values for that calculation. The source file itself is not) Tj T* (redistributed; only the prepared extract is included.) Tj T* ET
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 28.1 Tm
+/F1 8.8 Tf
+12.3 TL
+(Values describe the supplied dataset and should not be treated as audited market totals or forecasts\056 Annual sales and) Tj
+T*
+(customer ratings include missing entries\073 each measure excludes blank values for that calculation\056 The source file itself is not) Tj
+T*
+(redistributed\073 only the prepared extract is included\056) Tj
+T*
+ET
 Q
 Q
- 
-
 Q
-
-endstream
-endobj
-33 0 obj
-<<
-/Length 306
->>
-stream
 q
 0.0 0.0 595.276 841.89 re
 W
@@ -596,18 +688,810 @@ Q
 
 endstream
 endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+24 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1602
+>>
+stream
+Gatm;gNM:1'Re;/S>TMX/tuO`Hd,KXOuC"-'"@>H(806e>Y.]5XSMWO'%iSSgc@e.f_FZ8FS=:OT]"de]$I)TGa61i9+'1(HjMVT+lj_QR\0L;+_g9j@0@k#;D6+AA00T\0Rn/l5aW1QU&fk)`+amcCP]i\G\J/dT2fiOZ:g;3pur>2Db(`*?NMMDBGONC.m''bl5LB2&W%o1.HE@V:;=ZdoD/8t%^YEtnp:<*r6rV!rd_%F2cjqSju3;?!6jTWn"pm]bbqf5H2]2Ph]RDWPE*LM@6eKA`eWN*dGW@'K)On=0hImt.#:3+SaDN*GYsn2nS&]80j^&#%"=b(#GDV+o$Rd.]&6NAKMtLIm!O9\qTD<VFoCPIp&3!\T>X+fK+'qeb9ioH$#FS8nW]h-)kg\n^gV6X+4),:YeFs%RJP2<bd^hK<O8R\[Zc[dX0p=t1bd:R.sYWT26>LK;.sX.r5K*HB$Ca5i>TrZ'JH73GmV,MUCmaco!Kkq%\bC@_2M>3?'O\VCLI*?:DZX[Bs++>HG,D6Q'_j7OL%Bp=bl7<g(=%2@l+n$JO7p>;]IWp\;%s,Yj?8L$I^F4A">=j?_Q'S1[EUm\mWNs[/n1'FX&EIg'mdmnT3^&'YbC\%SA$b7C*'7RME<jqcWPgaYQca]FdcSb<i!@OrQRPj'i@B#S$kD#)^dp6JPFk_Q6\<eD-=g$eb*K98K?r,l85B,Ja9M):><odV6GX"6`Xb=<mgbenYLI!a]rFZ2)J-`^nH^>r1hiJQV1D'PjQS?C.BQ#kVX4n#@%e.nam*cWZ0c4j[77&\d@e/&OJFFk='e5R63<-D'Ck+`"kA-5qeBaUHYR\Bosh(mS1aW'KFPNOJ#;97uR`\Ls+[%9DGXq9QL4b#3BR(C1,>`*"tG%!?N+OI&;;O`bR'.)&mcbQ_dk[SpcYOqUP)5*V%5M\_po%9NigR)VINU/S.<%[Z1*Ne.+8EoZ2m?Vf"MeA1G<q9AQroMLncqE$g6OX8?P4SlWn8oElgp8`5_nf9HnX3N?h"i;RO92TdG.ZGF64Y)cH<gP;5E9Ip]guD0Q++jtPe=+tY8FMs'OO[49D5Auilj2/Fma_G4Zue<iTIjY2=HTiS>Uilda^D[EKEL6dA^P5QgU:.V&c62`*+o2[`L-lHqjU`="2%gbLhr\&lfTG$BgSOBUN#@Ba>-l35VF)kg'ud(e(3:%,4*#&s5N+slf>VI\#?o;K=?PZ3&C3uM]n(/O0h(gBUb+9L%QF(XS>0#H21i(C$$!lnrK,X[Z`d`8rGAeXLKuWmINcT:Ifo*@8eALN"`Dt%fb`\n\*X=3UpSnESXRhrTm-pG>d*.!]M/Jia@GUFo+]W_BTb7Z!6BQIFW^FgZ-8:%6-uJiSZCR;kTf,Xt_=*[O&=4H$-RS9_DWD,7X1(:t4!O'-EcN&.U.HLFLocj;?QWNAMOW=l[>9d93/b6MSXOO-"_&4cp2/Kn_&<[b3$@IY?dKp.V.TNt0hjE&U#:%,@!,531V[qqGVqRn++,h&thP?=N;'qdZUF[>bTMO1irVd?"S7V$E<.Dhno4n_Ofu(rEu&5;;lGJYo,V\[D/*I0H8!$Vp[)AobFD~>
+endstream
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+26 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1814
+>>
+stream
+Gb"/'9lo&I&A@sBm&?1\'S[aHYOT_WA4K4-.h\&6*[(lR&5r]6P'3A[O7.Z7.5<&>8kZXKf![,]$fEU[(V:2#@,`ggs$pjTha2R97=\JO/q?cN6MLS9iRug=_fm\n3ah`6DqY4/JVamO-J)l::u<BZ$G[,[f6?`W)BA#[VXM+NG;2e;2?9>?hf#C4#D9V_j+60V,]F'gV=$u7qDA8=@lT/:"N!%/(k.4/Mokj)#ijn)l>CW`EI0^!?XRt;*F6DhVZ;2HN$ii<L6j&WL?#m;pa_#)+FL.SGG]S_D30:ZmHNk1kDs;.D=<H>Sf8N,m8,X1[ZKaANphU/&]aQMr:YMQs0r[TW1Nq[Pm*tjJjm$Y?J#Hsq!lgH1;"L]L2_-Zn_s6,B\H?mY7e"e;BjIK=Qgg.K8ncsB/tuQ,15FE`:lF4E<63F//&_Q`Ch2)SZ$_3p8oC<25g*qpTG"2p'riNodc5jO_0oAAi4R/YKmC0q)Q&j7UoTIE6Dt?d^7Jn/U=6;IB,2sh&kLON%8:5/nECeC/NRg-sEf5eD[m$7ld1D`s3o8&p:D2`MhJ*''eCE7QC=PM='!PLu\fZ2^41@"'<N;gBZG<aqMit*7A:3M[33,^Yj\e'7'==)`.5^_5Chh<L0t%N]O+<AfUG!HXJ%0Z^AX_i/cOlUXL9K5W?_]SIj(pJ6f=R?KFMl3Ni:iQ2AA0P#7@,NfN0]AP-Jg3Fl*i#L$%slUqu=O.3Nf\-^cL!mun)4=anibGBMGDVmXn02&?dbf>iFF3GFLbAm1[D;56['Gl*_eFo.UlKk0g-4:RY'8![uk_f_/18l<#n0lic9Zm55Wf]o=%n^3T=jH_So+!ul%aciFG2TX)ip1H(eP4;jP#B+:62S(#drD9Ya$bALibo!<9Aj[kZmDALJ^kB8[D6iB51eekZ.6[bB&sj]D]6%]@j`A(]bW%)-k\S:Psc9/Um_*cC,_rI<7H+Zap:[P>j,(G55\Ri`Rd5o];)?&_[3:#DUg]iW0$#i;<8aG7>hS$P;'9VZ_2R$(d6Pe-CL=?UW?O+IQW2f>?)Tp,jP!$'#?ma']se"a^kHJS>cOj=]-f4S.l;llDD/U=@DiM*5JXL"])?<h_8YFZDC8Ko^n7sP$C/@"2k)VFV^sN3Pu_,D<@4t[=.QC>%F$lQEM?3>]<g(n/.X@BW,\m/"59k%:/2:Q"^e-.F?#rH:89j]q9'C<k>(H)=*DEq0cfV>r?(tMQp4F7:r(J/C3$mf&)E($f7OR?kLT&;PTaPX$jsJfq%(@9k`JPC3#]dHiFF+GPYdMUEhG&.kYgXK:8T+]WmV\4_#=PK%cSS>g+8fJ_h.;TiL+B\<#WQUhMB!fAVQG=%jmL`i_AoK6;NlkHWm53S*#?i:.f]DQ^nr?[U&CFfN4Z&an%Lb]&ae\,B+,*-./'+E41a:7\F^*JLJrQ!!<fUoh$Rgs8WH`jI]>!UI27Fp%A%Wlr7U*ESP"`Ks[A+=l9FF#@SJeq4W@dt9,PZ*<Z_E8P4M1_&iH^d#Yn]GAoa:1QfM@8aHgNRJM"7i;f1?KFI)DApcQ[S86PC2q_lNpn"Q]7q'1JbI%=%e`YQs"B'!jlGoU6#JSfDkIa]5PKlUg[O@C!%t1u!PDnQC`4abSkrhlJ=^LF(;W\d7t(9BAZ:!2$[o[j0#X@YHK=q78C7L2O0?,*[.,aVDTYU'R8.E>WQjtW[hj/n)cmhc26T2]Jj-uj/@oIeXrYdH-]A'ADb_CpmkoD?D:]t]>Kf^Hc/TZ6q.Ik8\@H0AAL>R;96E=PNlY84W9q?ir6Lr,pK,6*=WYlf"G@C3nG~>
+endstream
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+28 0 obj
+<<
+/Length 5252
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.862745 0.898039 0.909804 RG
+n
+48.18898 39.68504 m
+547.0866 39.68504 l
+S
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.4 0.466667 0.501961 rg
+BT
+1 0 0 1 48.18898 25.51181 Tm
+(EV MARKET PERFORMANCE \046 INSIGHTS  \174  PROJECT REPORT) Tj
+T*
+ET
+BT
+1 0 0 1 543.1946 25.51181 Tm
+(5) Tj
+T*
+ET
+Q
+q
+1 0 0 1 54.18898 769.5354 cm
+q
+0.070588 0.215686 0.278431 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 17 Tf
+21 TL
+(4\056 PROJECT DESIGN) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.6354 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 28.1 Tm
+/F1 8.8 Tf
+12.3 TL
+(Summary cards support quick scanning\054 filters support focused exploration\054 and the story sequence moves from overview to) Tj
+T*
+(manufacturer performance\054 market share\054 battery technology\054 and range\056 The website is published at the live Pages URL in) Tj
+T*
+(the links section\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 700.6354 cm
+q
+0.094118 0.513725 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(4\0561 Proposed solution) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 657.7354 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 28.1 Tm
+/F1 8.8 Tf
+12.3 TL
+(A standalone static website with five filters and interactive market views\073 a Tableau workbook with five story points and) Tj
+T*
+(descriptive captions\073 a prepared extract retaining all 200\054000 rows and ten selected fields\073 and project documentation) Tj
+T*
+(describing data decisions and remaining steps\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 635.7354 cm
+q
+0.094118 0.513725 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(4\0562 Project plan and current evidence) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 490.7354 cm
+q
+0.905882 0.956863 0.937255 rg
+n
+0 140 487.5591 -20 re
+f*
+0.972549 0.980392 0.984314 rg
+n
+0 100 487.5591 -20 re
+f*
+0.972549 0.980392 0.984314 rg
+n
+0 60 487.5591 -20 re
+f*
+0.972549 0.980392 0.984314 rg
+n
+0 20 487.5591 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 125 cm
+q
+0.070588 0.215686 0.278431 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 7.6 Tf
+10 TL
+(Phase) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 125 cm
+q
+0.070588 0.215686 0.278431 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 7.6 Tf
+10 TL
+(Work item) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 125 cm
+q
+0.070588 0.215686 0.278431 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 7.6 Tf
+10 TL
+(Deliverable \057 status) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Define) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 105 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Set scope and comparison questions) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 105 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Project objectives) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Prepare) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 85 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Inspect fields\054 blanks and duplicate IDs) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 85 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Prepared dataset and notes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 65 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Build) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 65 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Create dashboard and views) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 65 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(HTML\054 CSS and JavaScript) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Narrative) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 45 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Arrange Tableau sequence) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 45 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Five captions in published workbook) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 25 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Document) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 25 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Describe data\054 site\054 story and status) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 25 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(This report and repository notes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Publish) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91.03937 5 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Deploy site and record demo) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 266.7874 5 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 7.6 Tf
+10 TL
+(Pages and Tableau Public are live\073 a video link is included) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.862745 0.898039 0.909804 RG
+0.35 w
+n
+0 140 m
+487.5591 140 l
+S
+n
+0 0 m
+487.5591 0 l
+S
+n
+0 0 m
+0 140 l
+S
+n
+487.5591 0 m
+487.5591 140 l
+S
+n
+0 120 m
+487.5591 120 l
+S
+n
+0 100 m
+487.5591 100 l
+S
+n
+0 80 m
+487.5591 80 l
+S
+n
+0 60 m
+487.5591 60 l
+S
+n
+0 40 m
+487.5591 40 l
+S
+n
+0 20 m
+487.5591 20 l
+S
+n
+85.03937 0 m
+85.03937 140 l
+S
+n
+260.7874 0 m
+260.7874 140 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 470.8929 cm
+Q
+q
+1 0 0 1 54.18898 444.8929 cm
+q
+0.4 0.466667 0.501961 rg
+BT
+1 0 0 1 0 12.5 Tm
+/F1 7.5 Tf
+10 TL
+(The prepared data extract is downloadable separately\056 View the interactive Tableau dashboard and five\055point story using the Tableau Public link) Tj
+T*
+(above\073 the downloadable workbook file is also available\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+30 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1992
+>>
+stream
+Gb"/'>BcQ+&:XAWR&:uaa!N?]RO:Uk'.:L_,3e\+<e_GnAJ_0=SGr</+FtfiZBU+9.?5DlB%_*?47`mi9`2r"s5O1=D$7$q(bc>l.58e]+M*/5FS+tA#X$:S>VLa`0^TF1d)6:s7dl@0DutXq-ic=c]YMM@"h9S2R"=G&n)Z5e=onE*J'`%n(P^u/Nt6t\ZI!*SmV+7Wl.5r<Y2M,O0Sg&q*e&\+ZdHg%"F%c2`U2mclt.r)hr+';I/32Y1^<^oi,3Z6@5s'N1q^F@7DD4^'r"b4]!8s7fEM^(DgQhLA+:pg_0YcH);bf2f6/0V*I5`u9fE?nYaF_[*e*s:@m@B>"G\mbI:3.l]O3I7_Qdml`TN^VFEr4SFp2M;k?BhRh@Bi5a'8C&X-%%5BbZ^s(<24GZLQE;/_;;.8p\cLAHLb.h2oH%ISg0DYOEuGjA:LYd.B/_iNuAas5bEefn[d@rM>"4Znn2YZaurJmIO08I\2rYU[tg1Gg3s7j60%t$Fg^rV`-ut#^j\"H3>7a,(A/NBNq':1UfleEQ+t^mf`8*BT\\Bi^$$:r3_s[gUfc('9GGt6t_d8>k2F?1]'GMSV[tWW@O+HN8KOP&Bf*_W<*]=E@ilKAV/MpSOfmri3Sj0C9QOl:i/mtR+7B_e#>mp1^Z+3ai\st$^FFB<#W0d1U1./&%is*\]F>6.,?jM$$=Aikk"m;89oKA#C@E'P'GUm1$*OamEWd2'YTl@QZ8;4P34OBH&8d;(!gpJW'a`R.4`&kV+S\obk8d9,;7FC8'p7"/]q2^%n%M,2gh4QF3I.Gk894>-Do#0"2*Lrp]]ZJ2L(l6gG9:AM8qK&^_<3Q6E5ftPe3t>Fl=ED@jL\?QC<cYq4k#%3!4TE2ME1c:-V]uef97(.jYuccbs9>eS[7u)"aN@SLBu=;[BOA,mmN;`q>u@5W+h,i!6*'%sZ]!_jUXRZDolp0KD6j\Z2<o@0PMi9^D*Gc.O3.n*<Utg9=jbFM+\Wo-O6*e@BBpfaquW2E)Ch/D79?1Ufg8=qkdEK!iDK&pS2CZR'SAJo*k9GeC<*";5ocf':qSf`[)Km<'rX[$1>AIuB8@%MF%,-Q$i0*&!nEWnieW[N'QnA=UJ*8je;L$q%\"J%L8e,eHuaIo\;U#hlWmk`Y_E@5#g6Ci_(W$.]Y>'NA4dMJ/(YX"1V7I7h(nN=C.bn2WBg508KZUSc'T8Le>Z<[;Had[hA'PR=6H=WX*a`oH.]3n^H?V`Ii[$.qYAfO.MX/F-;nc"4dkfNEo_7968#nZdZg`B9'tldgY6/O3WCOcF*`Q-.$)^pTcEl.R3t[QJZVE;]M]3aeb(WD`@'dYQ\TjAuppke/sZYu@<j1t)%JL;f$HG6A\p^DT03S8l]+_>"Bm?Xu#?<?B=?:J<mejPe+n'h1cQ*)Y;bjqnD<SnQi`lbsHiJCe(&?:MP!Z":CJ+s_?6"6/@.Csu1p7aHQ[ATu(MFuNmRn3X0)`r1mJ7)5ZTropa3gM^+70_EA?Ws9X:DK2Nt:A'f@.;Q\(IDB+ZZC^Ws_HO-Nb]BimLJY""7ML3aNIAUD!]NlR8Y*gmC(6YU^QbI@OCDk;R=2l`jV>5S7u0R'Q84g$O)V#8<%+48?F$g@Cj3XN4eS=GCeeh[e;X9g8,+:V/B2![5f.K$($?D3I?FN?hC99dm_8$6\@*Js2V9)q\/l:<F/"7Z9#9b7$0\rKpp8@pWep*dgilR=.koUKPXru$+aI<i)SIIS%=_Z()V^#nK/)k/PoDCPQ?SHR@9HJ"VPb,!S5R0:H4/9Y0(9cj4<_GfOIV=G+h^p^?;>Ht'\SgBFsLJ32,l%UOMDe(2Ws0(b^!NQeV;#`YlBO?&$Sf&/&3a[Rcg?5d_/i;BRLNi5%+DmA3jaqdi?b8JR^0`'A=Id8nheH_8>[e$q!Q@RQ?O_bua)onf6n`Q68g$=b:]A]i7r]2QblP6mD#980Eqdk_GIsMn^`q7J80eK;3nra`B3n~>
+endstream
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+32 0 obj
+<<
+/Length 3447
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.862745 0.898039 0.909804 RG
+n
+48.18898 39.68504 m
+547.0866 39.68504 l
+S
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.4 0.466667 0.501961 rg
+BT
+1 0 0 1 48.18898 25.51181 Tm
+(EV MARKET PERFORMANCE \046 INSIGHTS  \174  PROJECT REPORT) Tj
+T*
+ET
+BT
+1 0 0 1 543.1946 25.51181 Tm
+(7) Tj
+T*
+ET
+Q
+q
+1 0 0 1 54.18898 769.5354 cm
+q
+BT
+1 0 0 1 0 4 Tm
+21 TL
+/F2 17 Tf
+0.070588 0.215686 0.278431 rg
+(7\056 ADVANTAGES\054 LIMITATIONS \046 NEXT STEPS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.6354 cm
+q
+BT
+1 0 0 1 0 28.1 Tm
+12.3 TL
+/F2 8.8 Tf
+0.145098 0.2 0.231373 rg
+(Advantages\056) Tj
+/F1 8.8 Tf
+( The project combines sales\054 battery mix\054 and range comparisons in a single exploratory interface\073 uses a) Tj
+T*
+(prepared compressed extract and static website\073 presents a five\055part Tableau narrative\073 and documents missing\055value) Tj
+T*
+(handling\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 679.7354 cm
+q
+BT
+1 0 0 1 0 28.1 Tm
+12.3 TL
+/F2 8.8 Tf
+0.145098 0.2 0.231373 rg
+(Limitations\056) Tj
+/F1 8.8 Tf
+( The dataset\222s representativeness and metric definitions have not been independently validated\056 Annual sales) Tj
+T*
+(may contain extreme values that should be reviewed\056 The dashboard counts source rows and does not equate row count to) Tj
+T*
+(distinct vehicles\056 Performance measures and narrow\055screen results remain unverified\056 A video link is included\073 confirm access\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 657.7354 cm
+q
+0.094118 0.513725 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(7\0561 Conclusion) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 602.5354 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 40.4 Tm
+/F1 8.8 Tf
+12.3 TL
+(The project organizes a large EV dataset into a public website dashboard and guided Tableau story\056 It gives reviewers a) Tj
+T*
+(practical way to compare recorded sales\054 battery technology\054 and driving range while preserving caveats about data quality) Tj
+T*
+(and interpretation\056 The website and Tableau story are ready for review\073 a video link is included\054 but viewer access) Tj
+T*
+(should be confirmed\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 580.5354 cm
+q
+0.094118 0.513725 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(7\0562 Next steps) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 549.9354 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 15.8 Tm
+/F1 8.8 Tf
+12.3 TL
+(Review metric outliers and source definitions\073 record browser performance and responsive\055layout results\073 record the project) Tj
+T*
+(walkthrough\073 confirm viewer access\054 then submit its link with the website and repository in SkillWallet\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 527.9354 cm
+q
+0.094118 0.513725 0.431373 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 11 Tf
+14 TL
+(DATA NOTES) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 485.0354 cm
+q
+BT
+1 0 0 1 0 28.1 Tm
+12.3 TL
+/F1 8.8 Tf
+0.145098 0.2 0.231373 rg
+(The original ) Tj
+/F3 8.8 Tf
+(ev\137market\137train\056csv) Tj
+/F1 8.8 Tf
+( stays local\073 the repository contains only the prepared extract at) Tj
+T*
+/F3 8.8 Tf
+(data\057cleaned\057ev\137market\137cleaned\056csv\056gz) Tj
+/F1 8.8 Tf
+(\056 The extract has 2\054028 blank sales values\054 3\054977 blank ratings\054 and one repeated) Tj
+T*
+(vehicle ID\056 See the linked data preparation notes for details\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 465.8622 cm
+Q
+q
+1 0 0 1 54.18898 449.8622 cm
+q
+0.4 0.466667 0.501961 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F1 7.5 Tf
+10 TL
+(Prepared by Dhruv Shrivastava \267 Medicaps University\054 Indore) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+33 0 obj
+<<
+/Author (Dhruv Shrivastava)
+/CreationDate (D\07220261028221040\05305\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261028221040\05305\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (EV Market Performance \046 Insights \204 Project Report)
+/Trapped /False
+>>
+endobj
 34 0 obj
 <<
 /Type /Annot
 /Subtype /Link
-/Rect [ 53 415 378.066 428 ]
-/Border [ 0 0 0 ]
+/Rect [ 216.0945 544.0854 540 554.0854 ]
+/Border [ 0.0 0.0 0.0 ]
 /A <<
 /S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete\057blob\057main\057EV\137Market\137Performance\137Insights\137Tableau\137Workbook\056zip)
+/URI (https\072\057\057www\056loom\056com\057share\0575a8d9cd829fe4909968b44f0b236b6b3)
 >>
-/P 10 0 R
+/P 12 0 R
 >>
 endobj
 xref
@@ -621,39 +1505,39 @@ xref
 0000002020 00000 n 
 0000002097 00000 n 
 0000002204 00000 n 
-0000002316 00000 n 
-0000002431 00000 n 
-0000002700 00000 n 
-0000002950 00000 n 
-0000003203 00000 n 
-0000003509 00000 n 
-0000003867 00000 n 
-0000004209 00000 n 
-0000004534 00000 n 
-0000004823 00000 n 
-0000004857 00000 n 
-0000005058 00000 n 
-0000006753 00000 n 
-0000006954 00000 n 
-0000008861 00000 n 
-0000009062 00000 n 
-0000010882 00000 n 
-0000011083 00000 n 
-0000013168 00000 n 
-0000013369 00000 n 
-0000015187 00000 n 
-0000015550 00000 n 
-0000015658 00000 n 
-0000015771 00000 n 
-0000020172 00000 n 
-0000020530 00000 n 
+0000002311 00000 n 
+0000002423 00000 n 
+0000002536 00000 n 
+0000002652 00000 n 
+0000002928 00000 n 
+0000003178 00000 n 
+0000003431 00000 n 
+0000003737 00000 n 
+0000004095 00000 n 
+0000004437 00000 n 
+0000004762 00000 n 
+0000005051 00000 n 
+0000005383 00000 n 
+0000005613 00000 n 
+0000010514 00000 n 
+0000010715 00000 n 
+0000012410 00000 n 
+0000012611 00000 n 
+0000014518 00000 n 
+0000014719 00000 n 
+0000020024 00000 n 
+0000020225 00000 n 
+0000022310 00000 n 
+0000022511 00000 n 
+0000026011 00000 n 
+0000026374 00000 n 
 trailer
 <<
 /Size 35
 /Root 1 0 R
-/Info 29 0 R
-/ID [ (\076A\241\050\245\263\344n\033 \032\074\315\077\317\277) (\076A\241\050\245\263\344n\033 \032\074\315\077\317\277) ]
+/Info 33 0 R
+/ID [ <3e41a128a5b3e46e1b201a3ccd3fcfbf> <3e41a128a5b3e46e1b201a3ccd3fcfbf> ]
 >>
 startxref
-20862
+26604
 %%EOF

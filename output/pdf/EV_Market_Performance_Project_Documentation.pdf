@@ -1,171 +1,823 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 22 0 R ]
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 18 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/ZelusGit/ev-market-performance-insights-complete)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 599.8661 335.2064 609.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 599.8661 335.2064 609.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://zelusgit.github.io/ev-market-performance-insights-complete/)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 575.8661 293.4144 585.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057zelusgit\056github\056io\057ev\055market\055performance\055insights\055complete\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 575.8661 293.4144 585.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://public.tableau.com/app/profile/dhruv.shrivastava/viz/EVMarketPerformanceInsights__17931690754480/Story1)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 551.8661 365.9024 561.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057public\056tableau\056com\057app\057profile\057dhruv\056shrivastava\057viz\057EVMarketPerformanceInsights\137\13717931690754480\057Story1)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 551.8661 365.9024 561.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/ZelusGit/ev-market-performance-insights-complete/blob/main/EV%20Market%20Performance%20%26%20Insights%20-%20Updated.twbx)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 527.8661 316.5344 537.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete\057blob\057main\057EV\04520Market\04520Performance\04520\04526\04520Insights\04520\055\04520Updated\056twbx)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 527.8661 316.5344 537.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/ZelusGit/ev-market-performance-insights-complete/blob/main/output/pdf/EV_Market_Performance_Project_Report.pdf)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 503.8661 336.9824 513.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete\057blob\057main\057output\057pdf\057EV\137Market\137Performance\137Project\137Report\056pdf)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 503.8661 336.9824 513.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/ZelusGit/ev-market-performance-insights-complete)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 479.8661 359.2224 489.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 479.8661 359.2224 489.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/ZelusGit/ev-market-performance-insights-complete/blob/main/data/cleaned/ev_market_cleaned.csv.gz)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 455.8661 317.4304 465.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete\057blob\057main\057data\057cleaned\057ev\137market\137cleaned\056csv\056gz)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 455.8661 317.4304 465.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/ZelusGit/ev-market-performance-insights-complete/blob/main/docs/story.md)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 431.8661 315.1984 441.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete\057blob\057main\057docs\057story\056md)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 431.8661 315.1984 441.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/ZelusGit/ev-market-performance-insights-complete/blob/main/docs/data-preparation.md)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 407.8661 321.4384 417.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete\057blob\057main\057docs\057data\055preparation\056md)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 407.8661 321.4384 417.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/ZelusGit/ev-market-performance-insights-complete/blob/main/docs/skillwallet-epic-checklist.md)
->> /Border [ 0 0 0 ] /Rect [ 219.5984 383.8661 308.0624 393.8661 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ZelusGit\057ev\055market\055performance\055insights\055complete\057blob\057main\057docs\057skillwallet\055epic\055checklist\056md)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.5984 383.8661 308.0624 393.8661 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://zelusgit.github.io/ev-market-performance-insights-complete/)
->> /Border [ 0 0 0 ] /Rect [ 218.0397 310.8583 513.1397 322.8583 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057zelusgit\056github\056io\057ev\055market\055performance\055insights\055complete\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 218.0397 310.8583 513.1397 322.8583 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://public.tableau.com/app/profile/dhruv.shrivastava/viz/EVMarketPerformanceInsights__17931690754480/Story1)
->> /Border [ 0 0 0 ] /Rect [ 210.8097 295.8583 290.8497 307.8583 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057public\056tableau\056com\057app\057profile\057dhruv\056shrivastava\057viz\057EVMarketPerformanceInsights\137\13717931690754480\057Story1)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 210.8097 295.8583 290.8497 307.8583 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 16 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
-  14 0 R 15 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Type /Annot
+/Subtype /Link
+/Rect [ 219.5984 359.8661 340 369.8661 ]
+/Border [ 0.0 0.0 0.0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057www\056loom\056com\057share\0575a8d9cd829fe4909968b44f0b236b6b3)
+>>
+/P 3 0 R
 >>
 endobj
 17 0 obj
 <<
-/PageMode /UseNone /Pages 19 0 R /Type /Catalog
+/Length 5969
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 48.51969 770.0394 cm
+q
+BT
+1 0 0 1 0 5 Tm
+53.06211 0 Td
+29 TL
+/F2 24 Tf
+0.070588 0.215686 0.278431 rg
+(EV Market Performance \046 Insights) Tj
+T*
+-53.06211 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 48.51969 747.0394 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 5 Tm
+/F1 10 Tf
+15 TL
+(Project documentation and reviewer links) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48.51969 696.0394 cm
+q
+BT
+1 0 0 1 0 35 Tm
+15 TL
+/F2 10 Tf
+0.145098 0.2 0.231373 rg
+(Prepared by\072) Tj
+/F1 10 Tf
+( Dhruv Shrivastava) Tj
+T*
+/F2 10 Tf
+(Institute\072) Tj
+/F1 10 Tf
+( Medicaps University\054 Indore) Tj
+T*
+/F2 10 Tf
+(Dataset\072) Tj
+/F1 10 Tf
+( 200\054000 records\073 37 source fields\073 10 fields in prepared extract) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48.51969 675.8661 cm
+Q
+q
+1 0 0 1 48.51969 645.8661 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Project links) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 56.69291 375.8661 cm
+q
+0.905882 0.956863 0.937255 rg
+n
+0 264 481.8898 -24 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 7 247 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Resource) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 247 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open resource) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 223 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Complete GitHub repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 223 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open complete github repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 199 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Live dashboard) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 199 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open live dashboard) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 175 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Tableau Public dashboard and story) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 175 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open tableau public dashboard and story) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 151 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Tableau workbook file) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 151 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open tableau workbook file) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 127 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Full project report \0507 pages\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 127 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open full project report \0507 pages\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 103 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Demo video) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 103 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(https\072\057\057www\056loom\056com\057share\0575a8d9cd829fe4909968b44f0b236b6b3) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 79 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Prepared data extract) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 79 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open prepared data extract) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 55 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Five\055point story notes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 55 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open five\055point story notes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 31 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Data preparation notes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 31 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open data preparation notes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 7 7 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(SkillWallet checklist) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 162.9055 7 cm
+q
+0.090196 0.411765 0.666667 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 8 Tf
+10 TL
+(Open skillwallet checklist) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.862745 0.898039 0.909804 RG
+0.4 w
+n
+0 264 m
+481.8898 264 l
+S
+n
+0 0 m
+481.8898 0 l
+S
+n
+0 0 m
+0 264 l
+S
+n
+481.8898 0 m
+481.8898 264 l
+S
+n
+0 240 m
+481.8898 240 l
+S
+n
+0 216 m
+481.8898 216 l
+S
+n
+0 192 m
+481.8898 192 l
+S
+n
+0 168 m
+481.8898 168 l
+S
+n
+0 144 m
+481.8898 144 l
+S
+n
+0 120 m
+481.8898 120 l
+S
+n
+0 96 m
+481.8898 96 l
+S
+n
+0 72 m
+481.8898 72 l
+S
+n
+0 48 m
+481.8898 48 l
+S
+n
+0 24 m
+481.8898 24 l
+S
+n
+155.9055 0 m
+155.9055 264 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 358.8583 cm
+Q
+q
+1 0 0 1 48.51969 328.8583 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Publication and evidence status) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48.51969 262.8583 cm
+q
+BT
+1 0 0 1 0 50 Tm
+15 TL
+/F1 10 Tf
+0.145098 0.2 0.231373 rg
+(The dashboard is publicly available at ) Tj
+0.090196 0.411765 0.666667 rg
+(https\072\057\057zelusgit\056github\056io\057ev\055market\055performance\055insights\055complete\057) Tj
+0.145098 0.2 0.231373 rg
+(\056 The) Tj
+T*
+(five\055point Tableau story is published ) Tj
+0.090196 0.411765 0.666667 rg
+(on Tableau Public) Tj
+0.145098 0.2 0.231373 rg
+(\073 the prepared data extract is available in a separate row\056) Tj
+T*
+(A video link has been supplied\073 confirm viewer access\056 Browser performance) Tj
+T*
+(measurements and narrow\055screen results are also pending\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48.51969 232.8583 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Data interpretation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48.51969 181.8583 cm
+q
+0.145098 0.2 0.231373 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(The repository includes a prepared 10\055field extract\054 not the original 37\055field CSV\056 The extract retains 200\054000) Tj
+T*
+(rows\054 has 2\054028 blank annual\055sales values and 3\054977 blank customer ratings\054 and contains one repeated vehicle) Tj
+T*
+(ID\056 Treat the metrics as exploratory summaries of the supplied records\054 not audited market totals or forecasts\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48.51969 161.685 cm
+Q
+q
+1 0 0 1 48.51969 144.685 cm
+q
+0.4 0.466667 0.501961 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 8 Tf
+11 TL
+(The full project report contains project scope\054 design\054 data preparation\054 story sequence\054 validation status\054 limitations\054 and next steps\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 18 0 obj
 <<
-/Author (Dhruv Shrivastava) /CreationDate (D:20261028221039+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261028221039+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (EV Market Performance & Insights \204 Project Documentation) /Trapped /False
+/F1 19 0 R
+/F2 20 0 R
 >>
 endobj
 19 0 obj
 <<
-/Count 1 /Kids [ 16 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 20 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1857
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gatm<?$G$]%"6I*^se=u@k4:f.(*u1RVk4S=ke2W94)@h[TUeJ6;l+7?U%Am,ce0hV,!Q!VEkgg![%c1J;Z'Ys%g*(Dru"a9n7IB?NLP(!9PB]h>H:+K'[+SYnN9G8q9gkEW%/uk>7*JP&@B5k$&+>a,N2ja7B_P`3+3-m=?)+[2kUF@2sp[OYDY;I&CuB'2U3H]_`$XRG)T^T=A&s[:MeLiA^P,csjC@q?>*X_u(h)L+3bsB7(_P)UJSb%LGH\Z)[?G-U.3#lOa3++l(c_T`m[VUuZ`k)TZGmD0]QW&[DC;A>&]mn2mcq(WE8hG8a;B7&Okaf=Do\em&Z9UR3VW?8BJU=PUZk[J#t8E4&`s%W9iim$K\Ia6FNX=MO8,D/+a'%"J'M8"PR%PoBWS`/Z?"bl&6(O@dEPX`VMje(d&ja)g(9lagc*<2rX,#+pL5PsV)q"jcQp348PfU4BNq`W%fQV.PB@C$<K47'&D0:C-e'[hip6rmBmpj)a9[#:PE656&0'_oRZI0-NmR:m$so(e9o=2TC/mpSes`<cru>Gu9)'M%dqnfbs2cKbeqoJ9MQWhLhq$EA,_e1$uA'*S8KF28(ZUn\e"2,k<LEn9e5cQ+TA:O6Ar+Sq!?+[rP^8gi.KkbjX'`Fd<Ym=/u-0/3Ds2iaV,%'+dL*&=gi@cmMXa>8Sl!f&L.7+A$Spq%'u8+_,i3OA'5H'CHU,9fO5m)G/BH4Hacoa>p<Z;mj\8g?Yh]Yo`)m*lQaMboTXUF?!rmO?ARYm\JPfUtf?)bt%-`?LP5j+,9hFHY94=lRL6NQtS7]h,hb7[g@bOXgnB(@KcK:_:dn9^PE'<i1?A#Y4u&7:1RVH2\-cLS4jWtrBZ@67Ms!j[X=G?1)^MlbcKFH5oCF]O4Fa\HhqQhYC$r_$K7Bjn/?B8XH]G59nIp_)Lf7]kno3%QLpJ=6U8IP1XFbNEc:-<n/b0SJ$qJ+4UhFHom)L72BpKI@6%@#OKNl?ab:cLe^)39>Q&c,li.Xu^0b:(ld5_*?o<kU%2QRsfaZl_q[73bn%+C#gXj)]R);WMEXr?Ai+r'pik^im$[KQb'_I</,T;JXfSW5Z*K'3f'1MFVKYpP!%/AI`-h7Hqm'%3N!u+<;JdsK]*^VPG&B"faLKsQT&r'+3=:F#Y[F45:I?Yhn:)q:QaZdlAq?]saU[$R3n!LXK.;W4LSZ/SX[*0SGGHZ>FXh0??1\l=>4C90EW?CiIC<Q&H4(OK.;?iM>)UR_#"I$5JV1*Q4q&dp5N?u<fPkg?$Q[CaHf(TueZG4/AM>ch\XDJ@u)]ct-3e0J"X%X"dD-QEc8[l[Bf6I!OMA^7q/=h9Fi&)?.e^9#oWpQpB/NX'jA46u#hDlToC[@oDYgl%5bs$,NfKYZ,F]^?ME@$nP'u$#TKr\Q0gK)u#gOV;n\E4,.bhB&MEi(A+mCeI]QR\B>kqek[hDCg(DC*qFZWt[S^G@))I.%l(^-8jLBj@>LS*QfheIfE_4*;dn%fc<@Q*l%tF!?Q"Y;2+Rk^?(Y=af\cqK6OK[+anFM3TJk%R/]EH$f.jNl`mX/0g,<p3NWXK_<_,edNj'f8F("ZXSP..4UY01s6KJNo_!o]];j%9)!DT$A3Y_rj>U$XDen9,F(]m8/='+N_u*NR&k;Vp?qt@$IL;eeaU''.$:5.NH!'Gie#_c]%Z/`'W>1flZp&kbM3<Vrbe_j!37k`FYoR)N&2A+BG/+Rj!iGHO,+\e&LWIRPGo8BMH51A%nJ']p8J_Zm7SLHH$E#HcH!sDONqJ*pH"QcTAhKA*)oTR<&2pN3mml6Z<;Hf>pQ^fZSi\IML0:mRNUI6VSH"n.5)dq""sQXbD;kW~>endstream
+endobj
+21 0 obj
+<<
+/Author (Dhruv Shrivastava)
+/CreationDate (D\07220261028221039\05305\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261028221039\05305\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (EV Market Performance \046 Insights \204 Project Documentation)
+/Trapped /False
+>>
+endobj
+22 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 219.5984 479.8661 540 489.8661 ]
+/Border [ 0.0 0.0 0.0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057www\056loom\056com\057share\0575a8d9cd829fe4909968b44f0b236b6b3)
+>>
+/P 3 0 R
+>>
 endobj
 xref
-0 21
+0 23
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000540 00000 n 
-0000000759 00000 n 
-0000001022 00000 n 
-0000001313 00000 n 
-0000001594 00000 n 
-0000001813 00000 n 
-0000002081 00000 n 
-0000002325 00000 n 
-0000002580 00000 n 
-0000002845 00000 n 
-0000003065 00000 n 
-0000003329 00000 n 
-0000003628 00000 n 
-0000003698 00000 n 
-0000004029 00000 n 
-0000004090 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000440 00000 n 
+0000000689 00000 n 
+0000000941 00000 n 
+0000001246 00000 n 
+0000001603 00000 n 
+0000001944 00000 n 
+0000002193 00000 n 
+0000002518 00000 n 
+0000002807 00000 n 
+0000003110 00000 n 
+0000003426 00000 n 
+0000003679 00000 n 
+0000003985 00000 n 
+0000004214 00000 n 
+0000010236 00000 n 
+0000010280 00000 n 
+0000010388 00000 n 
+0000010501 00000 n 
+0000010871 00000 n 
 trailer
 <<
-/ID 
-[<dabb8475b468c169664d53433bc2d907><dabb8475b468c169664d53433bc2d907>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 18 0 R
-/Root 17 0 R
-/Size 21
+/Size 23
+/Root 1 0 R
+/Info 21 0 R
+/ID [ <dabb8475b468c169664d53433bc2d907> <dabb8475b468c169664d53433bc2d907> ]
 >>
 startxref
-6039
+11100
 %%EOF
