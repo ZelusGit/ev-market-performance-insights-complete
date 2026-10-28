@@ -21,7 +21,7 @@ Interactive dashboard and Tableau story exploring sales, manufacturers, battery 
 | SkillWallet checklist | [Open requirements checklist](docs/skillwallet-epic-checklist.md) |
 | Demo video | Pending recording; verified Google Drive link will be added after recording. |
 
-The live website is deployed from main at the repository root. Viewers can use the live website link for the interactive web dashboard, the Tableau Public link for the interactive five-point Tableau story, and the prepared data extract link to download the data used by the website. The packaged Tableau workbook can also be downloaded and opened in Tableau Public/Desktop. Browser performance measurements are pending. The original 37-field CSV remains local; the repository includes only the prepared 10-field extract.
+The live website is deployed from main at the repository root. Viewers can use the live website link for the interactive web dashboard, the Tableau Public link for the interactive five-point Tableau story, and the prepared data extract link to download the data used by the website. Download the compressed workbook ZIP, extract it, then open the `.twbx` in Tableau Public/Desktop; the original `.twbx` is also available directly. Browser performance measurements are pending. The original 37-field CSV remains local; the repository includes only the prepared 10-field extract.
 
 ## Run the dashboard locally
 
