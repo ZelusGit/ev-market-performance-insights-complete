@@ -1,7 +1,8 @@
-const DATA_URL = "data/cleaned/ev_market_cleaned.csv.gz.b64";
-const COLORS = ["#41b88a", "#6589ed", "#8b73d6", "#e1a447", "#e27868", "#46a9ba", "#7893a0", "#b7ca5b"];
-const fields = {
-  id: "Vehicle ID", manufacturer: "Manufacturer", year: "Model Year",
+const DATA_URL = "data/cleaned/ev_market_cleaned.csv.gz";
+
+const COLORS = ["#41b88a", "#6589ed", "#8b73d6", "#e1a447", "#e27868", "#46a9ba", "#7893a0", "#b7ca5b"]
+ ;
+const fields = { id: "Vehicle ID", manufacturer: "Manufacturer", year: "Model Year",
   country: "Manufacturing Country", category: "Vehicle Category", battery: "Battery Type",
   capacity: "Battery Capacity (kWh)", range: "Driving Range (km)",
   sales: "Annual Sales Units", rating: "Customer Rating"
@@ -166,9 +167,9 @@ async function init() {
     const response = await fetch(DATA_URL);
     if (!response.ok) throw new Error(`Dataset request returned ${response.status}`);
     if (!("DecompressionStream" in window)) throw new Error("This browser cannot unpack the compressed data file");
-    const binary = atob((await response.text()).trim());
-    const bytes = new Uint8Array(binary.length);
-    for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+    const bytes = new Uint8Array(await response.arrayBuffer());
+    
+
     const decompressed = new Response(new Blob([bytes]).stream().pipeThrough(new DecompressionStream("gzip")));
     const parsed = parseCSV(await decompressed.text());
     rows = parsed.map((item) => ({
